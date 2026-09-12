@@ -1,0 +1,13 @@
+{
+  "itemGroup.avatarmod": "Example Mod Tab",
+  "block.avatarmod.example_block": "Example Block",
+  "item.avatarmod.example_item": "Example Item",
+
+  "avatarmod.configuration.title": "Avatar_mod Configs",
+  "avatarmod.configuration.section.avatarmod.common.toml": "Avatar_mod Configs",
+  "avatarmod.configuration.section.avatarmod.common.toml.title": "Avatar_mod Configs",
+  "avatarmod.configuration.items": "Item List",
+  "avatarmod.configuration.logDirtBlock": "Log Dirt Block",
+  "avatarmod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "avatarmod.configuration.magicNumber": "Magic Number"
+}
