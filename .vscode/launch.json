@@ -12,11 +12,11 @@
       "projectName": "avatarmod",
       "mainClass": "net.neoforged.devlaunch.Main",
       "args": [
-        "@C:\\Users\\RyanO\\OneDrive\\Desktop\\Modded\\Code\\avatarmod\\build\\moddev\\clientRunProgramArgs.txt"
+        "@C:\\Modded\\Code\\avatarmod\\build\\moddev\\clientRunProgramArgs.txt"
       ],
       "vmArgs": [
-        "@C:\\Users\\RyanO\\OneDrive\\Desktop\\Modded\\Code\\avatarmod\\build\\moddev\\clientRunVmArgs.txt",
-        "-Dfml.modFolders\u003davatarmod%%C:\\Users\\RyanO\\OneDrive\\Desktop\\Modded\\Code\\avatarmod\\bin\\main"
+        "@C:\\Modded\\Code\\avatarmod\\build\\moddev\\clientRunVmArgs.txt",
+        "-Dfml.modFolders\u003davatarmod%%C:\\Modded\\Code\\avatarmod\\bin\\main"
       ],
       "cwd": "${workspaceFolder}\\run",
       "env": {},
@@ -34,11 +34,11 @@
       "projectName": "avatarmod",
       "mainClass": "net.neoforged.devlaunch.Main",
       "args": [
-        "@C:\\Users\\RyanO\\OneDrive\\Desktop\\Modded\\Code\\avatarmod\\build\\moddev\\dataRunProgramArgs.txt"
+        "@C:\\Modded\\Code\\avatarmod\\build\\moddev\\dataRunProgramArgs.txt"
       ],
       "vmArgs": [
-        "@C:\\Users\\RyanO\\OneDrive\\Desktop\\Modded\\Code\\avatarmod\\build\\moddev\\dataRunVmArgs.txt",
-        "-Dfml.modFolders\u003davatarmod%%C:\\Users\\RyanO\\OneDrive\\Desktop\\Modded\\Code\\avatarmod\\bin\\main"
+        "@C:\\Modded\\Code\\avatarmod\\build\\moddev\\dataRunVmArgs.txt",
+        "-Dfml.modFolders\u003davatarmod%%C:\\Modded\\Code\\avatarmod\\bin\\main"
       ],
       "cwd": "${workspaceFolder}\\run",
       "env": {},
@@ -56,11 +56,11 @@
       "projectName": "avatarmod",
       "mainClass": "net.neoforged.devlaunch.Main",
       "args": [
-        "@C:\\Users\\RyanO\\OneDrive\\Desktop\\Modded\\Code\\avatarmod\\build\\moddev\\gameTestServerRunProgramArgs.txt"
+        "@C:\\Modded\\Code\\avatarmod\\build\\moddev\\gameTestServerRunProgramArgs.txt"
       ],
       "vmArgs": [
-        "@C:\\Users\\RyanO\\OneDrive\\Desktop\\Modded\\Code\\avatarmod\\build\\moddev\\gameTestServerRunVmArgs.txt",
-        "-Dfml.modFolders\u003davatarmod%%C:\\Users\\RyanO\\OneDrive\\Desktop\\Modded\\Code\\avatarmod\\bin\\main"
+        "@C:\\Modded\\Code\\avatarmod\\build\\moddev\\gameTestServerRunVmArgs.txt",
+        "-Dfml.modFolders\u003davatarmod%%C:\\Modded\\Code\\avatarmod\\bin\\main"
       ],
       "cwd": "${workspaceFolder}\\run",
       "env": {},
@@ -78,11 +78,11 @@
       "projectName": "avatarmod",
       "mainClass": "net.neoforged.devlaunch.Main",
       "args": [
-        "@C:\\Users\\RyanO\\OneDrive\\Desktop\\Modded\\Code\\avatarmod\\build\\moddev\\serverRunProgramArgs.txt"
+        "@C:\\Modded\\Code\\avatarmod\\build\\moddev\\serverRunProgramArgs.txt"
       ],
       "vmArgs": [
-        "@C:\\Users\\RyanO\\OneDrive\\Desktop\\Modded\\Code\\avatarmod\\build\\moddev\\serverRunVmArgs.txt",
-        "-Dfml.modFolders\u003davatarmod%%C:\\Users\\RyanO\\OneDrive\\Desktop\\Modded\\Code\\avatarmod\\bin\\main"
+        "@C:\\Modded\\Code\\avatarmod\\build\\moddev\\serverRunVmArgs.txt",
+        "-Dfml.modFolders\u003davatarmod%%C:\\Modded\\Code\\avatarmod\\bin\\main"
       ],
       "cwd": "${workspaceFolder}\\run",
       "env": {},

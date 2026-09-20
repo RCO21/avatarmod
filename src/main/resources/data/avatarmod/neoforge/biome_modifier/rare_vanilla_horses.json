@@ -1,0 +1,15 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:windswept_savanna"
+  ],
+  "spawners": {
+    "type": "minecraft:horse",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}
