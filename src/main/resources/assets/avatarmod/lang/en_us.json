@@ -1,8 +1,11 @@
 {
   "itemGroup.avatarmod": "Example Mod Tab",
   "block.avatarmod.example_block": "Example Block",
-  "item.avatarmod.example_item": "Example Item",
+  "item.avatarmod.example_item": "Example Item", 
 
+  "item.avatarmod.ostrichfeather": "Ostrich Horse Feather",
+  "item.avatarmod.ostrich_horse_meat": "Ostrich Horse Meat",
+  "entity.avatarmod.ostrich_horse": "Ostrich Horse",
   "avatarmod.configuration.title": "Avatar_mod Configs",
   "avatarmod.configuration.section.avatarmod.common.toml": "Avatar_mod Configs",
   "avatarmod.configuration.section.avatarmod.common.toml.title": "Avatar_mod Configs",
